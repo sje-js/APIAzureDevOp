@@ -1,0 +1,3 @@
+[submodule "SearchWorkItemsApp"]
+	path = SearchWorkItemsApp
+	url = https://github.com/42digitalweb/SearchWorkItemsApp.git
